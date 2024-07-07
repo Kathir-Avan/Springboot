@@ -50,11 +50,11 @@ public class Employee {
 		this.firstName = firstName;
 	}
 
-	public String getLasttName() {
+	public String getLastName() {
 		return lastName;
 	}
 
-	public void setLasttName(String lastName) {
+	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
 
